@@ -1,0 +1,14 @@
+.nav-bar{
+    display: flex;
+    background-color: #f58401;
+    align-items: center;
+}
+.site-name{
+    padding: 5px 30px;
+    color: #e74c3c;
+}
+a{
+    text-decoration: none;
+    margin: 0px 10px;
+    color: #212f30;
+}
